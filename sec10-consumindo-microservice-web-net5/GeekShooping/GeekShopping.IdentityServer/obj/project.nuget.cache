@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JV6op5w1m4HPFuS4RUXgrqnwy6hUdhENd7Il48MkoWFXQYAmOb7wUn1QD+DLi357UPLNnacpgUC2rc7+iwYIhw==",
+  "dgSpecHash": "wcpKu7kxp24gkGYkBTT8dvbA+PPw71DfP9LoaVDiinxMKvdQzoz+eU8cVpBppqq+YkAGedWqv5crCQRMJO9slA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Thiago Souza\\source\\repos\\microservices\\sec10-consumindo-microservice-web-net5\\GeekShooping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\5.0.0\\microsoft.aspnetcore.dataprotection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.17.nupkg.sha512",
-    "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\microsoft.aspnetcore.identity.ui.6.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.17\\microsoft.aspnetcore.identity.ui.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.17\\microsoft.aspnetcore.razor.language.5.0.17.nupkg.sha512",
@@ -32,6 +32,8 @@
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.17\\microsoft.extensions.fileproviders.embedded.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.17\\microsoft.extensions.identity.core.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.17\\microsoft.extensions.identity.stores.5.0.17.nupkg.sha512",
     "C:\\Users\\Thiago Souza\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
