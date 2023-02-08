@@ -394,3 +394,5 @@ C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-w
 C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-web-net5\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net5.0\GeekShopping.IdentityServer.pdb
 C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-web-net5\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net5.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-web-net5\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net5.0\ref\GeekShopping.IdentityServer.dll
+C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-web-net5\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Thiago Souza\source\repos\microservices\sec10-consumindo-microservice-web-net5\GeekShooping\GeekShopping.IdentityServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
