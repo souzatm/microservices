@@ -17,7 +17,8 @@ namespace GeekShopping.Web.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IProductService _productService;
 
-        public HomeController(ILogger<HomeController> logger, IProductService productService)
+        public HomeController(ILogger<HomeController> logger,
+            IProductService productService)
         {
             _logger = logger;
             _productService = productService;
@@ -54,7 +55,6 @@ namespace GeekShopping.Web.Controllers
             var accessToken = await HttpContext.GetTokenAsync("access_token");
             return RedirectToAction(nameof(Index));
         }
-
         public IActionResult Logout()
         {
             return SignOut("Cookies", "oidc");

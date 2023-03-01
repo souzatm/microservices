@@ -12,7 +12,7 @@ build_property.RootNamespace = GeekShopping.Web
 build_property.ProjectDir = C:\Users\Thiago Souza\source\repos\microservices\sec13-implementando-microservice-carrinho-de-compras\GeekShooping\GeekShopping.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Thiago Souza\source\repos\microservices\sec13-implementando-microservice-carrinho-de-compras\GeekShooping\GeekShopping.Web
 build_property._RazorSourceGeneratorDebug = 
 

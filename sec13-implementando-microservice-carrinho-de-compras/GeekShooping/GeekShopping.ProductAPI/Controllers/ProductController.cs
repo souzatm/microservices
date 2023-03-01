@@ -30,8 +30,8 @@ namespace GeekShopping.ProductAPI.Controllers
             return Ok(products);
         }
 
-        [Authorize]
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<ProductVO>> FindById(long id)
         {
             var product = await _repository.FindById(id);
@@ -39,8 +39,8 @@ namespace GeekShopping.ProductAPI.Controllers
             return Ok(product);
         }
 
-        [Authorize]
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<ProductVO>> Create([FromBody] ProductVO vo)
         {
             if (vo == null) return BadRequest();
@@ -48,8 +48,8 @@ namespace GeekShopping.ProductAPI.Controllers
             return Ok(product);
         }
 
-        [Authorize]
         [HttpPut]
+        [Authorize]
         public async Task<ActionResult<ProductVO>> Update([FromBody] ProductVO vo)
         {
             if (vo == null) return BadRequest();
